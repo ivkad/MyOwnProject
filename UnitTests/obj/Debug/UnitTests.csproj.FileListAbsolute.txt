@@ -1,0 +1,9 @@
+C:\Projects\MyOwnProject\UnitTests\obj\Debug\UnitTests.csprojResolveAssemblyReference.cache
+C:\Projects\MyOwnProject\UnitTests\bin\Debug\UnitTests.dll
+C:\Projects\MyOwnProject\UnitTests\bin\Debug\UnitTests.pdb
+C:\Projects\MyOwnProject\UnitTests\bin\Debug\HelpersLibrary.exe
+C:\Projects\MyOwnProject\UnitTests\bin\Debug\nunit.framework.dll
+C:\Projects\MyOwnProject\UnitTests\bin\Debug\HelpersLibrary.pdb
+C:\Projects\MyOwnProject\UnitTests\bin\Debug\nunit.framework.xml
+C:\Projects\MyOwnProject\UnitTests\obj\Debug\UnitTests.dll
+C:\Projects\MyOwnProject\UnitTests\obj\Debug\UnitTests.pdb
