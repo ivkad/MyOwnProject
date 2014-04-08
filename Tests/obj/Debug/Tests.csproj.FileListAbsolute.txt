@@ -4,3 +4,7 @@ C:\Projects\MyOwnProject\Tests\bin\Debug\Tests.pdb
 C:\Projects\MyOwnProject\Tests\obj\Debug\Tests.csprojResolveAssemblyReference.cache
 C:\Projects\MyOwnProject\Tests\obj\Debug\Tests.exe
 C:\Projects\MyOwnProject\Tests\obj\Debug\Tests.pdb
+C:\Projects\MyOwnProject\Tests\bin\Debug\HelpersLibrary.exe
+C:\Projects\MyOwnProject\Tests\bin\Debug\nunit.framework.dll
+C:\Projects\MyOwnProject\Tests\bin\Debug\HelpersLibrary.pdb
+C:\Projects\MyOwnProject\Tests\bin\Debug\nunit.framework.xml

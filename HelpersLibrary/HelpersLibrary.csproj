@@ -41,7 +41,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Components\Extensions.cs" />
+    <Compile Include="Components\Helper.cs" />
     <Compile Include="Components\Utilities.cs" />
+    <Compile Include="Framework\IHelper.cs" />
+    <Compile Include="Framework\IUtilities.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
