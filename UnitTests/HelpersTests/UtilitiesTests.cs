@@ -12,8 +12,6 @@ namespace UnitTests.HelpersTests
     [TestFixture]
     class UtilitiesTests
     {
-
-
         [Test]
         public void DoSomethingTest()
         {
