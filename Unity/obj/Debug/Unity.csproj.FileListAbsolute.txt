@@ -1,0 +1,8 @@
+C:\Projects\MyOwnProject\Unity\bin\Debug\Unity.exe.config
+C:\Projects\MyOwnProject\Unity\bin\Debug\Unity.exe
+C:\Projects\MyOwnProject\Unity\bin\Debug\Unity.pdb
+C:\Projects\MyOwnProject\Unity\bin\Debug\nunit.framework.dll
+C:\Projects\MyOwnProject\Unity\bin\Debug\nunit.framework.xml
+C:\Projects\MyOwnProject\Unity\obj\Debug\Unity.csprojResolveAssemblyReference.cache
+C:\Projects\MyOwnProject\Unity\obj\Debug\Unity.exe
+C:\Projects\MyOwnProject\Unity\obj\Debug\Unity.pdb

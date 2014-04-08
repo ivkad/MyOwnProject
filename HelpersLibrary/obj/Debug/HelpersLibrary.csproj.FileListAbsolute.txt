@@ -1,0 +1,6 @@
+C:\Projects\MyOwnProject\HelpersLibrary\bin\Debug\HelpersLibrary.exe.config
+C:\Projects\MyOwnProject\HelpersLibrary\bin\Debug\HelpersLibrary.exe
+C:\Projects\MyOwnProject\HelpersLibrary\bin\Debug\HelpersLibrary.pdb
+C:\Projects\MyOwnProject\HelpersLibrary\obj\Debug\HelpersLibrary.csprojResolveAssemblyReference.cache
+C:\Projects\MyOwnProject\HelpersLibrary\obj\Debug\HelpersLibrary.exe
+C:\Projects\MyOwnProject\HelpersLibrary\obj\Debug\HelpersLibrary.pdb
